@@ -1,5 +1,10 @@
 # gruvbox-zen
-Gruvbox color theme for Zen browser
+
+Gruvbox for <a href="https://zen-browser.app/">Zen Browser</a>
+
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>
 
 TODO:
 

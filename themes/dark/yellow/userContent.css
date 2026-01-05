@@ -6,9 +6,9 @@
     @-moz-document url-prefix("about:") {
         :root {
             --in-content-page-color: #f2e5bc !important;
-            --color-accent-primary:  !important;
+            --color-accent-primary: !important;
             --color-accent-primary-hover: #fabd2f !important;
-            --color-accent-primary-active:  !important;
+            --color-accent-primary-active: !important;
             background-color: #282828 !important;
             --in-content-page-background: #282828 !important;
         }
@@ -22,11 +22,11 @@
             --newtab-element-hover-color: #3c3836 !important;
             --newtab-text-primary-color: #f2e5bc !important;
             --newtab-wordmark-color: #f2e5bc !important;
-            --newtab-primary-action-background:  !important;
+            --newtab-primary-action-background: !important;
         }
 
         .icon {
-            color:  !important;
+            color: !important;
         }
 
         .search-wrapper .logo-and-wordmark .logo {
@@ -46,7 +46,7 @@
         }
 
         .card-outer:is(:hover, :focus, .active):not(.placeholder) .card-title {
-            color:  !important;
+            color: !important;
         }
 
         .top-site-outer .search-topsite {
@@ -63,11 +63,11 @@
         :root {
             --zen-colors-tertiary: #282828 !important;
             --in-content-text-color: #f2e5bc !important;
-            --link-color:  !important;
+            --link-color: !important;
             --link-color-hover: #fabd2f !important;
             --zen-colors-primary: #3c3836 !important;
             --in-content-box-background: #3c3836 !important;
-            --zen-primary-color:  !important;
+            --zen-primary-color: !important;
         }
 
         groupbox,
